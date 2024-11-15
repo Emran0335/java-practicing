@@ -12,7 +12,7 @@ public class CelsiusToFahrenheitDemo {
         System.out.print("The celsius value: ");
         celsius = input.nextDouble();
         
-        fahrenheit = (9/5)*celsius + 32;
+        fahrenheit = 1.8 * celsius + 32;
         
         System.out.println("The value of temperature in fahrenheit: "+fahrenheit);
     }
