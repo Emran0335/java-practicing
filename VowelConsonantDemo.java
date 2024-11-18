@@ -2,7 +2,17 @@
 package beginnerjava;
 
 import java.util.Scanner;
-
+/*
+Operator - 
+1. Artihmatic Operator
+2. Assignment Operator
+3. Relational Operator
+4. Logical Operator
+5. Conditional Operator
+6. Unary Operator
+7. Bitwise Operator
+8. Special Operator
+*/
 
 public class VowelConsonantDemo {
     public static void main(String[] args) {
