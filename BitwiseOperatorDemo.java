@@ -16,10 +16,10 @@ public class BitwiseOperatorDemo {
         
         c = a ^ b;
         System.out.println("a ^ b = "+c);
-        
+        // a will be divided by 2 (binary digits 2)
         c = a >> 3;
         System.out.println("a >> 3 = "+c);
-        
+        // a will be multiply by 2 (binary base is 2)
         c = a << 3;
         System.out.println("a << 3 ="+c);
     }
